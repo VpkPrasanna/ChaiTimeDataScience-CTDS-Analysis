@@ -1,0 +1,5 @@
+youtube_thumbnail_type,description,youtube_default,annotation,mini_series,ctds_brand
+0,YouTube default image,1,0,0,0
+1,YouTube default image with custom annotation,1,1,0,0
+2,Mini Series: Custom Image with annotations,0,1,1,0
+3,"Custom image with CTDS branding, Title and Tags",0,1,0,1
